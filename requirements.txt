@@ -1,1 +1,5 @@
+gunicorn==20.1.0
+pyaes==1.6.1
+pyasn1==0.4.8
+rsa==4.9
 Telethon==1.26.1
